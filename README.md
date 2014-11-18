@@ -12,7 +12,7 @@ Bold indicates completion
 - **javascripting**
 - **learnyounode**
 - **stream-adventure**
-- functional-javascript-workshop
+- **functional-javascript-workshop**
 - expressworks
 - learnyoucouchdb
 - async-you
