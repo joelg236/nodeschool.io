@@ -13,7 +13,7 @@ Bold indicates completion
 - **learnyounode**
 - **stream-adventure**
 - **functional-javascript-workshop**
-- expressworks
+- **expressworks**
 - learnyoucouchdb
 - async-you
 - shader-school
