@@ -14,7 +14,6 @@ Bold indicates completion
 - **stream-adventure**
 - **functional-javascript-workshop**
 - **expressworks**
-- learnyoucouchdb
 - async-you
 - shader-school
 - levelmeup
